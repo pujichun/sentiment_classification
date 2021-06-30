@@ -4,6 +4,14 @@
 
 ### 运行程序
 
+安装依赖
+
+```shell
+pip install -r requirements.txt
+```
+
+运行
+
 ```shell
 python run.py
 ```
